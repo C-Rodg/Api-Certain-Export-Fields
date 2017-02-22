@@ -4,5 +4,11 @@
   "description": "A tool to export Certain data to csv.",
   "main": "index.js",
   "author": "Curtis Rodgers",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "bluebird": "^3.4.7",
+    "json2csv": "^3.7.4",
+    "xml2js": "^0.4.17"
+  }
 }

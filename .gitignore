@@ -6,3 +6,9 @@ xml/
 
 # Config
 config.js
+
+# Questions
+certain_questions.csv
+
+# Yarn
+yarn.lock
