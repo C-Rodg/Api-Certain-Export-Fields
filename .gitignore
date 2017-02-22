@@ -1,0 +1,8 @@
+# Node Modules 
+node_modules/
+
+# XML Response
+xml/
+
+# Config
+config.js

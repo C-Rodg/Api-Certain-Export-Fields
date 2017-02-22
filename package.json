@@ -1,0 +1,8 @@
+{
+  "name": "api-certain-exportquestions",
+  "version": "1.0.0",
+  "description": "A tool to export Certain data to csv.",
+  "main": "index.js",
+  "author": "Curtis Rodgers",
+  "license": "MIT"
+}
